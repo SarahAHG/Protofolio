@@ -1,0 +1,49 @@
+body {font-family: font-family: 'Lato', sans-serif;
+	color: #003471;
+	background-color: #dcefff; 
+}
+.text-thin {
+	font-size: 10px; 
+}
+h2{ color: #003471; 
+}
+.title-super {
+	font-size: 50px;
+	color: #003471; 
+}
+.sub-title {
+	color: #0054a6; 
+}
+.title-logo {
+	margin-top:20px; 
+}
+.about-me {
+  color: #0054a6;
+  font-weight: bold;
+  font-size: 19px;
+  margin-left: 5%;
+  margin-right: 10%;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif; 
+}
+.social-links {
+  position: relative;
+  display: inline-flex;
+  margin-top: 2%;
+  margin-bottom: 2% ;
+  position: relative;
+  width: 100%;
+  text-align: center; 
+}
+.fontawesome-linkedin {
+  margin:auto;
+  font-size: 15px; 
+}
+.fontawesome-twitter{
+  margin:auto;;
+  font-size: 15px; 
+}
+.fontawesome-link{
+  margin:auto;
+  font-size: 15px; 
+}
